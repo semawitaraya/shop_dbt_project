@@ -53,4 +53,4 @@ final as (
 
 )
 
-select * from fin"RAW"."STRIPE"al
+select * from final
